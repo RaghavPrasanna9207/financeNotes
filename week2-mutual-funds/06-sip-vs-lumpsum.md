@@ -1,5 +1,7 @@
 # Chapter 2.6: SIP vs Lump Sum (and STP, SWP)
 
+> **Core**
+
 > **What you'll learn:** how a SIP works mechanically, rupee cost averaging (and its limits), why the real power of SIPs is behavioral, step-up SIPs, when a lump sum is better, how to invest a windfall with an STP, SIP myths, what to do during crashes, and how SWP works for withdrawals.
 
 ---

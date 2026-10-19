@@ -1,5 +1,7 @@
 # Chapter 4.5: Financial Ratios: The Five That Matter (and Their Supporting Cast)
 
+> **Core**, except §7–8 (efficiency and industry-specific ratios), which you can skip for now
+
 > *Based on Varsity's Fundamental Analysis module (financial ratio chapters).*
 >
 > **What you'll learn:** how to use ratios properly, the five core ratios from the plan (revenue growth, ROE, debt-to-equity, P/E, free cash flow) in depth, with ABC Paints as the worked example, supporting ratios (ROCE, margins, interest coverage, efficiency ratios, P/B, EV/EBITDA, PEG, dividend yield), the DuPont breakdown of ROE, industry-specific ratios, and a ratio scorecard.

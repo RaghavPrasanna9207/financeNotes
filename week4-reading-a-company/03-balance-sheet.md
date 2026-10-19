@@ -1,5 +1,7 @@
 # Chapter 4.3: The Balance Sheet: "What Does It Own and Owe?"
 
+> **Core**
+
 > *Based on Varsity's Fundamental Analysis module (balance sheet chapters).*
 >
 > **What you'll learn:** what a balance sheet is and the accounting equation, every major line on the liabilities and assets sides, shareholders' equity and reserves, borrowings, working capital items (inventory, receivables, payables), fixed assets, CWIP and goodwill, how to read a balance sheet over time, and the warning signs.

@@ -1,6 +1,8 @@
 # Chapter 2.5: Costs: Expense Ratio, Direct vs Regular, Exit Load, and the NAV Myth
 
-> **What you'll learn:** what the expense ratio includes and how it's deducted, SEBI's TER limits, how much fees cost you over a lifetime (with numbers), the direct vs regular plan difference and the distributor commission system, exit loads, other hidden costs, and why a "low NAV" fund is not "cheap".
+> **Core**
+
+> **What you'll learn:** what the expense ratio includes and how it's deducted, SEBI's expense limits (the Base Expense Ratio from April 2026), how much fees cost you over a lifetime (with numbers), the direct vs regular plan difference and the distributor commission system, exit loads, other hidden costs, and why a "low NAV" fund is not "cheap".
 
 ---
 
@@ -14,7 +16,7 @@ The **annual fee** a mutual fund charges to run the scheme, expressed as a **per
 - Administrative costs: RTA, custodian, audit, legal, registrar
 - Marketing and selling expenses
 - **Distributor commission** (only in regular plans)
-- GST on management fees
+- **Statutory levies** (GST, STT, stamp duty, exchange and SEBI fees). From April 2026 these are shown separately from the fund's own fee (see below).
 
 Brokerage and transaction costs for buying and selling securities are charged on top, within limits, which is another reason **portfolio turnover** matters.
 
@@ -22,22 +24,32 @@ Brokerage and transaction costs for buying and selling securities are charged on
 - **You never get a bill.** The expense is deducted **daily** from the fund's assets, reducing the NAV. A 1% TER means about 1/365th of 1% is shaved off the NAV every day.
 - **All published returns are already net of expenses.** That's why direct plans show higher returns than regular plans of the same fund.
 
-### SEBI limits on TER
-SEBI caps the TER on a sliding scale: the larger the fund, the lower the maximum percentage. Roughly:
+### SEBI limits: the Base Expense Ratio (from 1 April 2026)
+SEBI's new Mutual Fund Regulations (notified January 2026, effective **1 April 2026**) replaced the old TER caps with a **Base Expense Ratio (BER)**.
+- The **BER** is the fund's own fee: management, distribution (regular plans), admin and so on.
+- **Statutory levies are excluded** from the BER and shown separately: GST, STT, stamp duty, exchange fees and SEBI fees.
+- **Total expense = BER + statutory levies.** When you compare funds, look at the total.
 
-| Fund assets (AUM) | Max TER, equity schemes | Max TER, debt schemes |
+The BER cap falls as the fund grows:
+
+| AUM slab (₹ crore) | Max BER, equity | Max BER, debt |
 |---|---|---|
-| First ₹500 crore | 2.25% | 2.00% |
-| Next ₹250 crore | 2.00% | 1.75% |
-| Next ₹1,250 crore | 1.75% | 1.50% |
-| … continues to fall in slabs … | | |
-| Above ₹50,000 crore | ~1.05% | ~0.80% |
+| Up to 500 | 2.10% | 1.85% |
+| 500–750 | 1.90% | 1.65% |
+| 750–2,000 | 1.60% | 1.40% |
+| 2,000–5,000 | 1.50% | 1.25% |
+| 5,000–10,000 | 1.40% | 1.15% |
+| Then falling by 0.05% per slab | | |
+| Over 50,000 | 0.95% | 0.70% |
 
-- **Index funds and ETFs:** max TER of **1.00%**, but good ones charge far less (0.05–0.30% for direct Nifty 50 index funds).
-- **Fund of Funds:** separate caps, depending on what they invest in.
-- SEBI periodically reviews these caps. The trend has been toward lower costs.
+| Other fund types | Max BER |
+|---|---|
+| **Index funds and ETFs** | **0.90%** (was 1.00%). Good ones charge far less (0.05–0.30% for direct Nifty 50 index funds). |
+| Index FoFs | 0.90% |
+| Equity FoFs | 2.10% |
+| Other FoFs | 1.85% |
 
-AMCs must disclose TER changes on their websites and notify investors before increasing it.
+AMCs must disclose expense changes on their websites and notify investors before increasing them.
 
 ### Typical expense ratios (direct plans) in practice
 | Fund type | Typical direct TER |

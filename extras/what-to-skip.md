@@ -1,5 +1,7 @@
 # What to Skip for Now (and Why)
 
+> **Core**
+
 > These topics take about **80% of the effort and give 20% of the value** at your stage. Each section explains what the topic is, why it's on the skip list, and when it might be worth learning later.
 
 ---
@@ -24,6 +26,7 @@
 
 **Why skip it:**
 - **SEBI's studies (2023 and 2024)** found that about **9 out of 10 individual F&O traders lost money**. Aggregate individual losses ran to more than ₹1 lakh crore over three years (FY22–FY24), and the average loss per person was over ₹1 lakh.
+- **SEBI's FY25 study** found it got worse: **over 91%** of individual equity-derivative traders lost money, with net losses of about **₹1.06 lakh crore in FY25 alone**, up about **41%** from FY24.
 - **Leverage** turns ordinary moves into large losses. That's exactly the "risk of ruin" Housel warns about (Flaw #16).
 - Options lose value with time (theta decay). Weekly options in particular behave like lottery tickets.
 - SEBI has tightened rules (higher contract sizes, fewer weekly expiries, upfront premium collection) specifically because of retail losses.

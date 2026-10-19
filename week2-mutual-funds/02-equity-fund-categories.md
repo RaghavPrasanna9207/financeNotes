@@ -1,5 +1,7 @@
 # Chapter 2.2: Equity Fund Categories
 
+> **Core**
+
 > **What you'll learn:** why SEBI standardised fund categories in 2017, every equity fund category and its rules, how they differ in risk and return, which categories are useful for a beginner, and which to be wary of.
 
 ---
@@ -13,6 +15,12 @@ Before October 2017, AMCs could launch any number of funds with vague names ("Op
 - set **clear investment rules** for each (e.g. how much must be in large caps)
 - allowed **only one scheme per category per AMC** (index funds, ETFs, FoFs and sectoral/thematic funds are exceptions)
 - forced AMCs to merge or reclassify hundreds of overlapping schemes
+
+### The 2026 update (SEBI circular of 26 February 2026)
+- **Value and contra:** an AMC may now offer **both** a value fund and a contra fund, as long as their portfolios overlap by **no more than 50%** (AMCs have 3 years to comply).
+- **Sectoral and thematic** funds are now **two separate categories**.
+- **New: life cycle funds.** A target-date style category: you pick a fund matching your goal year, and it follows a set glide path, shifting from equity to debt as that year approaches (the idea in Chapter 3.2, done for you).
+- **Solution-oriented funds** (children's and retirement funds) are **discontinued**: no fresh subscriptions, and existing schemes will be merged into other categories.
 
 **Why this helps you:** you can now compare funds **within the same category** fairly. Comparing a small-cap fund's returns with a large-cap fund's is meaningless. They carry completely different risks.
 
@@ -40,10 +48,11 @@ All equity schemes must have **at least 65% in equity** (except where a higher l
 | 6 | **Flexi Cap Fund** | ≥ **65%** equity, **any mix** of sizes | The manager has full freedom to shift between sizes. One of the most popular categories. |
 | 7 | **Focused Fund** | Max **30 stocks** | Concentrated portfolio. Outcomes depend heavily on the manager. |
 | 8 | **Value Fund** | Follows a value strategy | Buys stocks that look cheap on valuation metrics |
-| 9 | **Contra Fund** | Follows a contrarian strategy | Buys out-of-favour stocks. (An AMC can have either a value or a contra fund, not both.) |
+| 9 | **Contra Fund** | Follows a contrarian strategy | Buys out-of-favour stocks. (Since February 2026, an AMC can run both a value and a contra fund if their portfolios overlap by at most 50%.) |
 | 10 | **Dividend Yield Fund** | Mainly invests in dividend-yielding stocks | Tends toward mature, cash-rich companies |
-| 11 | **Sectoral / Thematic Fund** | ≥ **80%** in a particular sector or theme | Banking, IT, pharma, infrastructure, PSU, consumption, manufacturing, ESG… |
-| 12 | **ELSS (Equity Linked Savings Scheme)** | ≥ **80%** in equity, **3-year lock-in** | Tax deduction under 80C (old regime only) |
+| 11 | **Sectoral Fund** | ≥ **80%** in one sector | Banking, IT, pharma… |
+| 12 | **Thematic Fund** | ≥ **80%** in one theme | Infrastructure, PSU, consumption, manufacturing, ESG… (a separate category from sectoral since February 2026) |
+| 13 | **ELSS (Equity Linked Savings Scheme)** | ≥ **80%** in equity, **3-year lock-in** | Tax deduction under 80C (old regime only) |
 
 Plus **index funds and ETFs** (passive), which can track any index: Nifty 50, Next 50, Midcap 150, Nifty 500, etc.
 
@@ -92,7 +101,7 @@ Plus **index funds and ETFs** (passive), which can track any index: Nifty 50, Ne
 - **Verdict:** only if you understand and believe in the style, and can sit through long dry spells.
 
 ### 3.9 Sectoral and thematic funds
-- Bets on one sector (banking, IT, pharma) or theme (infra, PSU, consumption, manufacturing, defence, EV, ESG, "Make in India").
+- **Sectoral funds** bet on one sector (banking, IT, pharma). **Thematic funds** bet on a theme that cuts across sectors (infra, PSU, consumption, manufacturing, defence, EV, ESG, "Make in India"). Since February 2026, SEBI treats them as two separate categories, but the risks below apply to both.
 - **Problems:**
   - **Concentration:** if the sector has a bad decade, the fund does too. IT funds were flat for long periods. Infra funds lost heavily after 2008 and took a decade to recover.
   - **Marketing timing:** AMCs launch thematic NFOs when the theme is **hot**, after it has already risen a lot. Investors pile in at the top.
@@ -157,7 +166,8 @@ Use an **overlap tool** (Value Research, Morningstar, or third-party tools) to c
 
 - SEBI's 2017 categorisation lets you compare funds **within** a category. Always compare like with like.
 - Large cap = top 100, mid = 101–250, small = 251+.
-- **Large cap:** hardest to beat the index, so use an index fund.
+- **Large cap:** most active funds lag the index (74–85% depending on the period, Chapter 2.4), so use an index fund.
+- **2026 changes:** value and contra funds can now coexist (max 50% overlap), sectoral and thematic are separate categories, life cycle (target-date) funds are new, and solution-oriented funds are being discontinued.
 - **Flexi cap:** a sensible single active fund. **Mid and small caps:** long horizons and small allocations only.
 - **Sectoral and thematic:** avoid as core holdings. They're usually marketed at peaks.
 - **ELSS:** only if you're in the old regime and need 80C. Each SIP instalment has its own 3-year lock-in.

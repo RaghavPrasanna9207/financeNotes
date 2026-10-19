@@ -1,5 +1,7 @@
 # Chapter 3.9: Week 3 Output: Your One-Page Money Plan
 
+> **Core**
+
 > **Goal:** write a single page that says how much you invest, where it goes and why. It pulls together everything from Weeks 1–3. Keep it to **one page**, print it or pin it, and review it once a year.
 
 Allow 60–90 minutes. Fill in your real numbers, even if they're small.
@@ -94,7 +96,38 @@ Allow 60–90 minutes. Fill in your real numbers, even if they're small.
 
 ---
 
-## Worked example: a 22-year-old in their first job
+## Worked example 1: a student on an allowance
+
+**Snapshot:** monthly allowance ₹______. Spending (food, transport, phone, college costs) ₹______. Surplus ₹______. No salary, no loans, no tax.
+
+**Safety net:**
+- **Emergency buffer:** **one month's allowance (₹______)** in a savings account. Your parents are the real backstop for now, so a full 3 to 6 month fund can wait until you earn.
+- **Health:** covered under your **parents' family floater**. Check that your name is on the policy, the sum insured (₹___ L), and the age until which dependent children stay covered.
+- **Term life:** **not needed.** Nobody depends on your income, and you have no loans.
+- **Debt:** none. If you have a credit card, pay the full bill every month.
+
+**Goals:**
+| Goal | Amount | Years | Where | Mix |
+|---|---|---|---|---|
+| Emergency buffer | One month's allowance (₹______) | Now | Savings account | Cash |
+| Long-term investing habit | ₹1,000/month | 5+ | Nifty 50 index fund (Direct-Growth) | 100% equity |
+
+Only money you won't need for 5+ years goes into the SIP. Anything you're saving for sooner (a laptop, a trip) stays in the savings account.
+
+**What ₹1,000/month can do** (at 12%): about **₹82,000 after 5 years** (₹60,000 invested), and about **₹2.3 L after 10 years** (₹1.2 L invested). The amount is small. The point is building the habit and learning how a real investment behaves before your salary starts.
+
+**Allocation:** 100% equity, one fund. Skip debt and gold for now: your emergency buffer is your "debt", and EPF will add a debt portion once you have a salary.
+
+**Automation and tax:**
+- SIP date: 2–3 days after your allowance arrives.
+- Step-up: raise the SIP whenever your allowance goes up or you get an internship stipend.
+- **Tax: zero.** You have no taxable income, and your SIP gains are far below the ₹1.25 L yearly LTCG exemption.
+
+**When to switch:** when you take your first job, redo this plan using the template and Worked example 2.
+
+---
+
+## Worked example 2: a 22-year-old in their first job
 
 **Snapshot:** take-home ₹60,000/month. Expenses ₹30,000 (rent share, food, transport, phone). Surplus ₹30,000 → **savings rate 50%**. No loans. EPF auto-deducted (₹2,400 + employer share). Savings ₹40,000.
 

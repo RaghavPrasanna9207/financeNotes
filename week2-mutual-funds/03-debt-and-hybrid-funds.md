@@ -1,5 +1,7 @@
 # Chapter 2.3: Debt Funds and Hybrid Funds
 
+> **Reference: read when you start earning**
+
 > **What you'll learn:** how debt funds make (and lose) money, the key debt metrics (YTM, modified duration, Macaulay duration, average maturity, credit rating), every SEBI debt category and what to use it for, lessons from past debt-fund blowups, hybrid fund categories, and how all of these are taxed.
 
 ---

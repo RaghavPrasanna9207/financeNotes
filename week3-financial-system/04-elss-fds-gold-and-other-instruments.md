@@ -1,8 +1,10 @@
 # Chapter 3.4: ELSS, FDs, Small Savings Schemes, Gold and Other Instruments
 
+> **Reference: read when you start earning**
+
 > **What you'll learn:** ELSS in detail, how fixed deposits work (types, compounding, DICGC insurance, TDS, laddering), post office small savings schemes (NSC, SCSS, SSY, KVP, MIS, RD), RBI Floating Rate Bonds, all the ways to own gold and how they compare, and a master table of when each instrument makes sense.
 
-> **Rates change quarterly** for small savings schemes and frequently for FDs. Figures are indicative (2025–26).
+> **Rates change quarterly** for small savings schemes and frequently for FDs. Figures are indicative, as of October 2026.
 
 ---
 
@@ -134,9 +136,11 @@ Fine for cultural and personal use. **Poor as an investment.**
 - Issued by **RBI on behalf of the Government of India**, priced in grams of gold.
 - **2.5% annual interest** on the initial investment value, paid half-yearly (taxable at slab).
 - **Tenure: 8 years** (early redemption allowed from year 5 on interest dates).
-- **Capital gains on redemption at maturity are tax-free.** This is the big advantage.
+- **Tax at maturity (Budget 2026, from 1 April 2026):**
+  - **Original subscribers** who bought at the RBI issue and **held continuously to maturity**: capital gains are **tax-free**.
+  - **Anyone who bought on NSE/BSE:** maturity gains are taxed like other listed gold. **12.5% LTCG** if held more than 12 months, **slab rate** if held less.
 - **Current status:** the government **stopped issuing new SGB tranches** (the last issue was in early 2024), citing high costs as gold prices surged. Existing SGBs **trade on NSE/BSE** in a demat account, often at a premium or discount to the gold price, with thin trading volumes.
-- If you buy SGBs on the exchange and hold them to maturity, the tax-free benefit still applies.
+- **For a new investor:** with no new issues and no tax-free maturity for exchange buyers, SGBs have lost most of their edge. Use **gold ETFs or gold FoFs** instead. If you already hold SGBs from an original issue, keeping them to maturity still makes sense.
 
 ### 5.5 Digital gold
 - Sold by apps and wallets (backed by companies like MMTC-PAMP, SafeGold, Augmont).
@@ -152,8 +156,8 @@ Fine for cultural and personal use. **Poor as an investment.**
 | Costs | High (making, GST) | ~0.3–0.8%/yr | ~0.5–1%/yr | None (spread on purchase) | 3% GST + spreads |
 | Regulation | — | SEBI | SEBI | RBI/GoI | **None** |
 | Demat needed | No | Yes | No | Yes | No |
-| Tax | LTCG 12.5% after 24 months | LTCG 12.5% after 12 months | LTCG 12.5% after 24 months | **Tax-free at maturity**; else LTCG 12.5% after 12 months | As physical |
-| Verdict | Avoid for investment | **Good** | **Good** (simple SIPs) | Good if available at a fair price | Avoid |
+| Tax | LTCG 12.5% after 24 months | LTCG 12.5% after 12 months | LTCG 12.5% after 24 months | Exchange buyers: LTCG 12.5% after 12 months, slab if less (tax-free at maturity only for original subscribers) | As physical |
+| Verdict | Avoid for investment | **Good** | **Good** (simple SIPs) | Not for new investors (use an ETF or FoF). Hold existing original-issue bonds to maturity. | Avoid |
 
 (Tax rules: Chapter 3.5. Gold FoF holding period and treatment have been revised in recent budgets, so verify.)
 
@@ -178,7 +182,7 @@ Fine for cultural and personal use. **Poor as an investment.**
 | **Extra retirement + tax** | NPS (80CCD(1B) old; 80CCD(2) both) | Insurance "pension plans" |
 | **Retiree income** | SCSS, RBI Floating Rate Bonds, POMIS, debt-fund SWP, annuity (part) | Equity-heavy income plans |
 | **Girl child's future** | SSY + equity index fund | Child insurance plans |
-| **Diversifier / hedge** | Gold ETF or gold FoF (SGB on the secondary market) | Jewellery, digital gold |
+| **Diversifier / hedge** | Gold ETF or gold FoF | Jewellery, digital gold |
 
 ---
 
@@ -186,13 +190,13 @@ Fine for cultural and personal use. **Poor as an investment.**
 - **ELSS:** the shortest 80C lock-in (3 years) with equity growth. Old regime only. Fill the remaining 80C gap after automatic items.
 - **FDs:** safe (DICGC up to ₹5 L per bank) and predictable, but taxed at slab every year. Use them for short-term goals, emergencies (sweep) and laddering.
 - **Small savings schemes:** sovereign-backed. **SSY** (girl child) and **SCSS** (retirees) are standouts.
-- **Gold:** use **ETFs or gold FoFs**. SGBs are tax-free at maturity but are only available second-hand now. Avoid digital gold and investment jewellery. Keep it to 5–15%.
+- **Gold:** use **ETFs or gold FoFs**. SGBs are only available second-hand now, and from April 2026 the tax-free maturity applies only to original subscribers, so exchange buyers pay capital-gains tax. Avoid digital gold and investment jewellery. Keep it to 5–15%.
 
 ## Self-check questions
 1. You're in the old regime with ₹90,000 of EPF contribution and ₹25,000 of children's tuition fees a year. How much 80C room is left?
 2. You have ₹12 L to keep in FDs. How would you structure it for DICGC safety?
 3. Why is digital gold a poor choice compared with a gold ETF?
-4. What makes SGBs attractive, and why can't you buy new ones from RBI?
+4. You buy an SGB on NSE in 2026 and hold it to maturity. Is the gain tax-free? Should a new investor buy SGBs?
 5. Which small savings scheme suits a 62-year-old retiree wanting quarterly income?
 
 <details><summary>Answers</summary>
@@ -200,6 +204,6 @@ Fine for cultural and personal use. **Poor as an investment.**
 1. ₹1,50,000 − ₹1,15,000 = ₹35,000.
 2. Spread it across at least three banks, keeping each under ₹5 L (principal + interest), e.g. ₹4 L each in three banks.
 3. It's unregulated (no SEBI/RBI oversight), has high GST and spreads, and the custody arrangements are less transparent.
-4. 2.5% interest on top of the gold price, and tax-free capital gains at maturity. The government stopped new issues in 2024, so they're only available on the exchange.
+4. No. From 1 April 2026, the maturity exemption applies only to original subscribers who held continuously. An exchange buyer pays 12.5% LTCG (held more than 12 months) or slab rate. With no new issues since early 2024, a new investor is better off with a gold ETF or gold FoF.
 5. SCSS (Senior Citizens' Savings Scheme).
 </details>

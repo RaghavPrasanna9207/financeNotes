@@ -1,5 +1,7 @@
 # Chapter 1.2: Inflation and Real Returns
 
+> **Core**
+
 > **What you'll learn:** what inflation is and why it happens, how India measures it (CPI, WPI) and the RBI's role, why your *personal* inflation is probably higher than the headline number, the difference between nominal and real returns, how tax makes "safe" investments lose money, and how to plan goals in future rupees.
 
 ---

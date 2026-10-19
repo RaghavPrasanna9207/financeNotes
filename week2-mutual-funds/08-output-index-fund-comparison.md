@@ -1,5 +1,7 @@
 # Chapter 2.8: Week 2 Output: Compare Nifty 50 Index Funds and Pick One
 
+> **Core**
+
 > **Goal:** compare two or three Nifty 50 index funds (direct plans) on the metrics that actually matter, choose one, and set up a SIP. This applies everything from Chapters 2.1–2.7.
 
 Allow about 60 minutes.

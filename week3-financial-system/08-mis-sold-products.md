@@ -1,5 +1,7 @@
 # Chapter 3.8: Commonly Mis-sold Products: ULIPs, Endowment and Money-Back Plans
 
+> **Core**
+
 > **What you'll learn:** why "insurance + investment" products exist and why they're pushed so hard, how traditional endowment and money-back plans work (sum assured, bonuses, surrender value), how to calculate their real return (IRR) yourself, how ULIPs work and what they charge, "guaranteed" plans, the Buy Term + Invest the Rest comparison with numbers, red-flag sales phrases, and what to do if you already own one.
 
 ---
@@ -169,7 +171,7 @@ Compare spending the same ₹52,000/year two ways.
 | "Bonus of ₹X per thousand" | A simple (not compound) bonus, which sounds bigger than it is |
 | "Pay for only 5–10 years, get benefits for 25" | Calculate the IRR. Often around 5%. |
 
-**Mis-selling remedies:** use the **free look period** (15 days, or 30 days for policies bought online/at a distance) to cancel for a refund. Complaints can go to the insurer's grievance cell, then **Bima Bharosa** and the **Insurance Ombudsman**.
+**Mis-selling remedies:** use the **free look period** (30 days for all policies, under IRDAI's 2024 rules) to cancel for a refund. Complaints can go to the insurer's grievance cell, then **Bima Bharosa** and the **Insurance Ombudsman**.
 
 ---
 

@@ -1,5 +1,7 @@
 # Chapter 4.8: Using Screener.in: A Practical Walkthrough
 
+> **Core**, except §3 (building stock screens), which you can skip for now
+
 > **What you'll learn:** how to navigate a company page on Screener.in section by section, what each number means and where it connects to Chapters 4.2–4.7, how to customise ratios, how to use peer comparison, charts, shareholding and documents, how to build stock screens with the query language, and a step-by-step 30-minute analysis routine.
 
 ---

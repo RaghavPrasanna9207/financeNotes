@@ -1,5 +1,7 @@
 # Chapter 3.1: Financial Foundations: Before You Invest
 
+> **Core**
+
 > **What you'll learn:** the order of operations in personal finance, how to track cash flow and set a savings rate, how to size and hold an emergency fund, how to handle debt (good vs bad debt, credit cards, the avalanche and snowball methods), your credit score, and how to set goals properly.
 
 ---

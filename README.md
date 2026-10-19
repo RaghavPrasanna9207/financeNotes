@@ -1,10 +1,36 @@
 # Personal Finance & Markets: 4-Week Study Notes (India)
 
+## Core path (read now)
+For a student on an allowance starting a small index fund SIP. Every chapter has a **Core** or **Reference** tag under its title.
+
+| Week | Read |
+|---|---|
+| 1 | All of Week 1 (1.1–1.6) |
+| 2 | 2.1, 2.2, 2.4, 2.5, 2.6, plus 2.7 (except §5) and the output 2.8 |
+| 3 | 3.1, 3.2, 3.5 §1–3, 3.8, plus the output 3.9 (start with Worked example 1, the student) |
+| 4 | All of Week 4, except 4.5 §7–8 and 4.8 §3 |
+| Extras | Psychology of Money, What to Skip |
+
+## Reference (read when it applies)
+| Chapter | Read when |
+|---|---|
+| 2.3 Debt and hybrid funds | You start earning |
+| 2.7 §5 Risk metrics | You start earning and compare active funds |
+| 3.3 EPF, VPF, PPF and NPS | You start earning |
+| 3.4 ELSS, FDs, small savings, gold | You start earning |
+| 3.5 §4 onwards (rest of investment tax) | You file taxes |
+| 3.6 Old vs new tax regime | You file taxes |
+| 3.7 Insurance | You buy insurance |
+
+**Size:** the core path is about **55,000 words** (roughly 4.5 hours of reading) out of about **71,000 words** for the whole set (roughly 6 hours).
+
+---
+
 Full study notes for the 4-week plan (about 40 minutes a day, 5 days a week). They're self-contained, so you don't need to visit the source links to learn the material. Each chapter includes explanations, worked examples with real numbers, common mistakes, a summary, and **self-check questions with answers**. Each week ends with an **output** you build yourself.
 
 Sources condensed: Zerodha Varsity (Introduction to Stock Markets; Personal Finance: Mutual Funds, Insurance and NPS; Fundamental Analysis), SPIVA India, Value Research, Screener.in, freefincal topics, and Morgan Housel's essay *The Psychology of Money*.
 
-> **Figures** (tax rates, interest rates, limits, rules) are as of late 2026. The Income-tax Act, 2025 replaced the 1961 Act from 1 April 2026 and renumbered sections. These notes use the familiar old names (80C, 80D, 24(b)…). Rates for PPF, EPF and small savings schemes change periodically. Verify before acting.
+> **Figures** (tax rates, interest rates, limits, rules) are as of October 2026. The Income-tax Act, 2025 replaced the 1961 Act from 1 April 2026 and renumbered sections. These notes use the familiar old names (80C, 80D, 24(b)…). Rates for PPF, EPF and small savings schemes change periodically. Verify before acting.
 >
 > **These are educational notes, not personalised financial advice.**
 
@@ -38,7 +64,7 @@ Sources condensed: Zerodha Varsity (Introduction to Stock Markets; Personal Fina
 | 2.2 | [Equity Fund Categories](week2-mutual-funds/02-equity-fund-categories.md) | SEBI categories, large/mid/small/flexi/multi cap, sectoral, ELSS, how many funds |
 | 2.3 | [Debt and Hybrid Funds](week2-mutual-funds/03-debt-and-hybrid-funds.md) | YTM, duration, credit risk, debt categories, PRC matrix, Franklin lesson, hybrids, arbitrage |
 | 2.4 | [Index vs Active Funds](week2-mutual-funds/04-index-vs-active.md) | SPIVA India, why active lags, tracking error, core–satellite |
-| 2.5 | [Costs and the NAV Myth](week2-mutual-funds/05-costs-and-the-nav-myth.md) | TER, the cost of 1% in rupees, direct vs regular, exit loads, why low NAV ≠ cheap |
+| 2.5 | [Costs and the NAV Myth](week2-mutual-funds/05-costs-and-the-nav-myth.md) | Expense ratio and the Base Expense Ratio (2026), the cost of 1% in rupees, direct vs regular, exit loads, why low NAV ≠ cheap |
 | 2.6 | [SIP vs Lump Sum](week2-mutual-funds/06-sip-vs-lumpsum.md) | Rupee cost averaging, behavioral benefits, step-up, STP, SWP, crashes |
 | 2.7 | [Reading a Factsheet](week2-mutual-funds/07-reading-a-factsheet.md) | Rolling returns, portfolio, SD/beta/Sharpe/Sortino/alpha/R², debt fields, checklist |
 | 2.8 | [**Output:** Pick a Nifty 50 Index Fund](week2-mutual-funds/08-output-index-fund-comparison.md) | Comparison table, decision rules |
@@ -54,7 +80,7 @@ Sources condensed: Zerodha Varsity (Introduction to Stock Markets; Personal Fina
 | 3.6 | [Old vs New Tax Regime](week3-financial-system/06-old-vs-new-tax-regime.md) | Slabs, 87A rebate, deductions, worked comparisons, breakevens, filing basics |
 | 3.7 | [Insurance](week3-financial-system/07-insurance.md) | Health (features, super top-up), term life (how much), PA, critical illness, claims |
 | 3.8 | [Mis-sold Products](week3-financial-system/08-mis-sold-products.md) | Endowment, money-back, ULIP, IRR calculation, buy term + invest the rest, exiting bad policies |
-| 3.9 | [**Output:** One-Page Money Plan](week3-financial-system/09-output-money-plan.md) | Template + worked example |
+| 3.9 | [**Output:** One-Page Money Plan](week3-financial-system/09-output-money-plan.md) | Template + two worked examples (student on an allowance, first job) |
 
 ## Week 4: Reading a Company
 | # | Chapter | Key ideas |
@@ -79,4 +105,3 @@ Sources condensed: Zerodha Varsity (Introduction to Stock Markets; Personal Fina
 
 ## Locking it in
 At the end of each week, ask Claude to **quiz you on that week's concepts**. Every chapter also has self-check questions with answers. Whatever you get wrong tells you exactly which section to re-read.
-"# financeNotes" 

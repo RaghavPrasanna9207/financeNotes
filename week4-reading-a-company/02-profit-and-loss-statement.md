@@ -1,5 +1,7 @@
 # Chapter 4.2: The Profit & Loss Statement: "Did It Make Money?"
 
+> **Core**
+
 > *Based on Varsity's Fundamental Analysis module (the P&L chapters).*
 >
 > **What you'll learn:** what the P&L shows, every line from revenue to EPS, the different "profit" levels (gross, EBITDA, EBIT, PBT, PAT), margins, other income and exceptional items, how to read a P&L across years and quarters, and the common tricks to watch for.

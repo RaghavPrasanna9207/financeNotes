@@ -1,5 +1,7 @@
 # Chapter 3.7: Insurance: Health, Term Life and Others
 
+> **Reference: read when you buy insurance**
+
 > *Based on Zerodha Varsity's Personal Finance: Insurance module (9 chapters), condensed.*
 >
 > **What you'll learn:** what insurance is for and the principles behind it, health insurance in depth (how much cover, every feature to check, super top-ups, employer cover, claims), term life insurance (who needs it, how much, the Human Life Value method, riders, how to buy, claims), personal accident, critical illness and other covers, and the regulator (IRDAI).
@@ -33,7 +35,7 @@ The most important lesson of the module: **insurance and investment are two sepa
 | **Exclusions** | What the policy won't cover |
 | **Waiting period** | Time before certain conditions are covered |
 | **Rider** | An add-on cover attached to a base policy |
-| **Free look period** | 15–30 days after purchase to cancel for a refund if you're unhappy |
+| **Free look period** | 30 days after you receive the policy to cancel for a refund if you're unhappy (all policies, under IRDAI's 2024 rules) |
 
 ### The regulator: IRDAI
 The **Insurance Regulatory and Development Authority of India** regulates insurers, products and claims. Complaints go first to the insurer's grievance cell, then to the **Bima Bharosa portal** and the **Insurance Ombudsman** (free).

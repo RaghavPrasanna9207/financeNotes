@@ -1,5 +1,7 @@
 # Chapter 1.4: Stock Market Basics and the Players
 
+> **Core**
+
 > *Based on Zerodha Varsity's "Introduction to Stock Markets" module (early chapters).*
 >
 > **What you'll learn:** why stock markets exist, how a company goes from a startup to a listed company, the primary vs secondary market, every institution in the Indian market ecosystem (SEBI, exchanges, brokers, depositories, clearing corporations), the different types of market participants, and how demat and trading accounts work.

@@ -1,5 +1,7 @@
 # Chapter 4.7: Red Flags: How to Spot Trouble Early
 
+> **Core**
+
 > **What you'll learn:** the three biggest red flags (promoter pledging, profit without cash, equity dilution) in depth, plus governance, accounting, balance sheet and business red flags, lessons from real Indian blow-ups, and a red-flag checklist you can run in 15 minutes on Screener.in.
 
 ---

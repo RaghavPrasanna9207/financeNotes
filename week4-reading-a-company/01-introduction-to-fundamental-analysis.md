@@ -1,5 +1,7 @@
 # Chapter 4.1: Introduction to Fundamental Analysis
 
+> **Core**
+
 > *Based on the opening chapters of Zerodha Varsity's Fundamental Analysis module.*
 >
 > **What you'll learn:** what fundamental analysis is and how it differs from technical analysis, the investor's mindset, qualitative vs quantitative analysis, the annual report and what's in it, other sources of information, and the example company used throughout this week.

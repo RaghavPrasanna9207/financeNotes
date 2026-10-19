@@ -1,5 +1,7 @@
 # Chapter 1.3: Asset Classes and the Risk–Return Tradeoff
 
+> **Core**
+
 > **What you'll learn:** the four main asset classes (equity, debt, gold, real estate) plus cash, what drives the return of each, the specific risks each carries, how bonds really work (including why bond prices fall when interest rates rise), what "risk" actually means, and how to match assets to time horizons.
 
 ---
@@ -120,7 +122,7 @@ Gold produces **no cash flow**: no earnings, no interest, no rent. Its return co
 ### How to own it (best to worst for investing)
 1. **Gold ETFs:** traded on stock exchanges. Each unit is backed by physical gold of 99.5% purity. Low cost. Needs a demat account.
 2. **Gold mutual funds (fund of funds):** invest in gold ETFs. No demat needed and SIPs are possible. Slightly higher cost.
-3. **Sovereign Gold Bonds (SGBs):** issued by the RBI. Pay 2.5% a year interest *on top of* the gold price, and are tax-free at maturity. **The government stopped issuing new tranches in 2024**, so you can only buy existing ones on the exchange.
+3. **Sovereign Gold Bonds (SGBs):** issued by the RBI. They pay 2.5% a year interest *on top of* the gold price. **No new tranches have been issued since early 2024**, so you can only buy existing ones on the exchange. From 1 April 2026, the tax-free maturity benefit applies **only to investors who subscribed at the original RBI issue and held continuously to maturity**. If you buy on NSE/BSE, you pay capital-gains tax at maturity like any other gold investment. For a new investor, gold ETFs or gold FoFs are the simpler choice.
 4. **Physical gold (coins, bars, jewellery):** making charges (8–25% on jewellery), purity concerns, storage and theft risk, and a loss on resale. Fine for cultural use, poor as an investment.
 5. **Digital gold on apps:** **not regulated by SEBI or RBI**. Avoid.
 

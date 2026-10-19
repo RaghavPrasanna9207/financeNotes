@@ -1,5 +1,7 @@
 # Chapter 1.5: Trading, Settlement, Corporate Actions and Indices
 
+> **Core**
+
 > *Based on Zerodha Varsity's "Introduction to Stock Markets" module.*
 >
 > **What you'll learn:** what happens step by step when you place an order, market timings and order types, T+1 settlement, all the charges on a trade, corporate actions (dividends, bonus, splits, rights, buybacks) and how they affect you, market capitalisation, and what stock market indices are, how they're built and why they matter.

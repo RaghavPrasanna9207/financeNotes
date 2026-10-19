@@ -1,5 +1,7 @@
 # Chapter 1.1: Compounding: The Engine Behind All Wealth
 
+> **Core**
+
 > **What you'll learn:** what compounding is and why it's exponential rather than linear, the formulas you need (and how to run them in a spreadsheet), the Rule of 72, why *time* matters more than *amount*, how compounding works in reverse (costs and debt), and the behavioral trap that kills compounding.
 
 ---
@@ -121,11 +123,11 @@ Three friends each invest ₹5,000 a month into an equity index fund earning 12%
 
 | | Invests from | Invests until | Years investing | Total invested | Value at 60 |
 |---|---|---|---|---|---|
-| **Asha** | 22 | 32, **then stops** and lets it grow | 10 | ₹6 L | **₹2.77 Cr** |
+| **Asha** | 22 | 32, **then stops** and lets it grow | 10 | ₹6 L | **₹3.29 Cr** |
 | **Bharat** | 32 | 60 | 28 | ₹16.8 L | **₹1.38 Cr** |
 | **Chitra** | 22 | 60 | 38 | ₹22.8 L | **₹4.67 Cr** |
 
-**Asha invested about a third of what Bharat did, and ended with twice as much.** Her money had 28 extra years to compound. Bharat can never catch up, because he can't buy those years back.
+**Asha invested about a third of what Bharat did, and ended with about 2.4× as much.** Her ₹11.6 L at age 32 had 28 extra years to compound (monthly, at 12%). Bharat can never catch up, because he can't buy those years back.
 
 Chitra, who started early *and* kept going, ends with the most by far.
 
@@ -207,7 +209,7 @@ Charlie Munger: *"The first rule of compounding: never interrupt it unnecessaril
 
 | Myth | Reality |
 |---|---|
-| "I'll start investing when I earn more." | Time is worth more than amount. ₹2,000/month at 22 beats ₹10,000/month at 35 in many scenarios. |
+| "I'll start investing when I earn more." | Time is worth more than amount. ₹2,000/month from 22 nearly matches ₹10,000/month from 35 by age 60 (₹1.87 Cr vs ₹1.90 Cr at 12%), on a fifth of the monthly amount. |
 | "12% a year means I'll see 12% every year." | 12% is a long-run *average*. Individual years can be +40% or −30%. |
 | "Compounding is about getting high returns." | It's about *reasonable* returns for an *unusually long* time. |
 | "A few years' delay doesn't matter." | It costs you the *final* years of compounding, which are the biggest ones. |

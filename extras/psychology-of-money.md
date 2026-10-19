@@ -1,5 +1,7 @@
 # Behavioral Finance: The Psychology of Money (Housel's 20 Flaws)
 
+> **Core**
+
 > *Notes on Morgan Housel's original 2018 essay, **"The Psychology of Money: Timeless lessons on wealth, greed, and happiness"**, on the Collaborative Fund blog. His bestselling 2020 book grew out of this essay. Each point below has: **the idea**, **Housel's example**, and **what it means for you** as a young Indian investor.*
 
 ---
@@ -174,7 +176,7 @@ Behavior is hard to teach because it's shaped by ego, fear, greed, personal hist
 ## 15. An attachment to financial entertainment
 **The idea:** money is emotional, so it attracts **sensational media coverage** and fan-like engagement. Financial news is designed to grab attention, not to improve your decisions.
 
-**Housel's example:** a **3% stock market drop** makes headlines, while a much larger change in something like blood pressure wouldn't make the news at all. *"Boring is good."* Opportunities often lie where others aren't looking.
+**Housel's example:** a **3% stock market drop** makes headlines, while a **3% rise in average blood pressure**, a change of the same size, wouldn't make the news at all. *"Boring is good."* Opportunities often lie where others aren't looking.
 
 **What it means for you:**
 - Business TV, stock-tip Telegram channels and social media hot takes are **entertainment**. Consuming them often makes outcomes worse, because they trigger action (Flaw #12).

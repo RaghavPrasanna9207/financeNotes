@@ -1,8 +1,10 @@
 # Chapter 3.5: How Investments Are Taxed (Capital Gains and More)
 
+> **Core**: §1–3 only. The rest is **Reference: read when you file taxes**
+
 > **What you'll learn:** what a capital gain is, short-term vs long-term, the current tax rates for equity, debt funds, gold, real estate and others, the ₹1.25 L LTCG exemption and tax-gain harvesting, how SIP units are taxed (FIFO), grandfathering, set-off and carry-forward of losses, tax on interest and dividends, TDS, and the Income-tax Act 2025 transition.
 
-> **Important:** these rules reflect the changes in **Budget July 2024** (effective 23 July 2024) and later budgets, carried into the **Income-tax Act, 2025** (which replaced the 1961 Act from **1 April 2026**). The new Act renumbers sections, but rates and concepts are largely unchanged. A **4% health & education cess** applies on top of all tax, plus a surcharge for high incomes. Always verify current rules on incometax.gov.in or with a tax professional before filing.
+> **Important:** figures as of October 2026. These rules reflect the changes in **Budget July 2024** (effective 23 July 2024) and later budgets (including Budget 2026's SGB change), carried into the **Income-tax Act, 2025** (which replaced the 1961 Act from **1 April 2026**). The new Act renumbers sections, but rates and concepts are largely unchanged. A **4% health & education cess** applies on top of all tax, plus a surcharge for high incomes. Always verify current rules on incometax.gov.in or with a tax professional before filing.
 
 ---
 
@@ -117,9 +119,12 @@ Check the fund's tax classification on the AMC website.
 | Gold ETFs (listed) | **12 months** | **12.5%** | Slab |
 | Gold mutual funds (FoF) | 24 months (treatment revised from FY 2025-26; verify) | 12.5% | Slab |
 | Physical gold / jewellery / digital gold | **24 months** | 12.5% (no indexation) | Slab |
-| **SGB held to maturity** | — | **Exempt** | — |
+| **SGB held to maturity by an original subscriber** (bought at the RBI issue, held continuously) | n/a | **Exempt** | n/a |
+| SGB bought on NSE/BSE, held to maturity (from 1 April 2026) | 12 months | 12.5% | Slab |
 | SGB sold on the exchange before maturity | 12 months | 12.5% | Slab |
-| SGB interest (2.5%) | — | Taxed at slab yearly | |
+| SGB interest (2.5%) | n/a | Taxed at slab yearly | |
+
+Budget 2026 limited the SGB maturity exemption to original subscribers, from 1 April 2026. No new SGBs have been issued since early 2024, so new investors should use gold ETFs or gold FoFs.
 
 ---
 
@@ -184,7 +189,8 @@ Capital losses can reduce your taxable capital gains:
 | Hybrid ≥ 65% equity | ≤ 12 m | 20% | 12.5% above ₹1.25 L | Taxed as equity |
 | Gold ETF | ≤ 12 m | Slab | 12.5% | |
 | Physical gold | ≤ 24 m | Slab | 12.5% | |
-| SGB at maturity | — | — | **Exempt** | Interest taxable |
+| SGB at maturity, original subscriber | n/a | n/a | **Exempt** | Interest taxable |
+| SGB at maturity, bought on exchange | ≤ 12 m | Slab | 12.5% | Interest taxable |
 | Real estate | ≤ 24 m | Slab | 12.5% (or 20% with indexation for pre-23-Jul-2024 property) | Sec 54/54EC exemptions |
 | FD / RD / NSC / SCSS interest | — | Slab yearly | — | TDS above the threshold |
 | PPF / EPF* / SSY | — | Exempt | Exempt | *EPF limits apply |
@@ -197,7 +203,7 @@ Capital losses can reduce your taxable capital gains:
 - **Equity:** STCG **20%** (≤ 12 months), LTCG **12.5% above ₹1.25 L/year**. **Harvest the ₹1.25 L every year.**
 - **SIP units:** FIFO. Each instalment has its own holding period.
 - **Debt funds bought since April 2023:** taxed at **slab** (but deferred until redemption, unlike FDs).
-- **Gold ETFs:** 12.5% after 12 months. **SGBs at maturity:** tax-free.
+- **Gold ETFs:** 12.5% after 12 months. **SGBs at maturity:** tax-free only for original subscribers who held continuously. Exchange buyers pay 12.5% LTCG (or slab if held 12 months or less).
 - **Losses:** STCL offsets both, LTCL only LTCG. Carry forward 8 years if you **file on time**.
 - Use **CAMS/KFintech capital gains statements and AIS** when filing.
 

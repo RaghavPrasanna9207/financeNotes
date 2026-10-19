@@ -1,5 +1,7 @@
 # Chapter 2.4: Index Funds vs Active Funds
 
+> **Core**
+
 > **What you'll learn:** what active and passive investing are, what the SPIVA India scorecards show, *why* most active funds lose to their index (cost, arithmetic, efficiency, survivorship), the problem of picking winners in advance, tracking error, when active funds might still make sense, and a practical core–satellite approach.
 
 ---
@@ -10,7 +12,7 @@
 - A **fund manager** and research team pick stocks they believe will **beat a benchmark** (e.g. Nifty 100 TRI for a large-cap fund).
 - They decide what to buy, how much and when to sell.
 - **Goal:** outperformance ("alpha").
-- **Cost:** higher expense ratio (direct plans ~0.5–1.2%, regular plans 1.5–2.25%), plus higher trading costs from portfolio turnover.
+- **Cost:** higher expense ratio (direct plans ~0.5–1.2%, regular plans ~1.5–2.1% plus statutory levies), plus higher trading costs from portfolio turnover.
 
 ### Passive investing
 - The fund simply **copies an index**, holding the same stocks in the same weights.
@@ -26,13 +28,29 @@ Jack Bogle, founder of Vanguard and creator of the first retail index fund (1976
 
 **SPIVA (S&P Indices Versus Active)** is a scorecard published twice a year by **S&P Dow Jones Indices**. It measures what percentage of active funds in each category **underperformed** their benchmark over 1, 3, 5 and 10 years. It corrects for **survivorship bias** by including funds that closed or merged.
 
-### Consistent findings across SPIVA India reports
-1. **Indian equity large-cap funds:** over **10-year periods, the large majority (typically around 80–90% or more)** have underperformed the S&P BSE 100 index. Over 1 year the numbers swing more (some years most funds beat the index, others few do), but the longer the period, the worse active funds look.
-2. **ELSS and mid/small-cap funds:** active managers have historically had *relatively* better outcomes in these segments than in large caps. Even so, over long horizons a majority have usually trailed their benchmarks in most reports, and results vary a lot from period to period.
-3. **Indian government and composite bond funds:** a majority of active debt funds also underperformed their benchmarks over long periods.
-4. **Survivorship:** a meaningful share of funds that existed 10 years ago **no longer exist** (merged or closed), usually because they performed badly. If you only look at today's funds, history looks better than it was.
+### The latest numbers: SPIVA India Mid-Year 2026 (periods ending 30 June 2026)
+**% of active funds that underperformed their benchmark** (funds that closed or merged count as failures):
 
-> Check the latest report on the S&P Dow Jones Indices website ("SPIVA India Scorecard"). The exact percentages change every edition, but the long-term pattern in large caps has been remarkably stable.
+| Category | Benchmark | 3 yrs | 5 yrs | 10 yrs |
+|---|---|---|---|---|
+| Large-cap | S&P India LargeMidCap | 80% | 85% | 74% |
+| ELSS | S&P India BMI | 64% | 71% | 80% |
+| Mid/small-cap | S&P India SmallCap | 53% | 55% | 82% |
+| Composite bond | iBoxx ALBI India | 75% | 76% | 93% |
+| Government bond | iBoxx ALBI India | 80% | 91% | 75% |
+
+**Survivorship:** only **74%** of funds across all categories survived the full 10 years. About a quarter were closed or merged, usually after performing badly.
+
+Source: [SPIVA India Scorecard, Mid-Year 2026](https://www.spglobal.com/spdji/en/documents/spiva/spiva-india-scorecard-mid-year-2026.pdf). S&P changed the benchmarks in mid-2024, so older reports that use the S&P BSE 100 for large caps aren't directly comparable.
+
+### What the numbers say
+1. **Large-cap:** about three in four active funds lagged over 10 years, and 80–85% over 3 and 5 years.
+2. **Mid/small-cap:** active funds did *relatively* better over 3 and 5 years, where only about half lagged. **Over 10 years they did worse than large caps (82% lagged)**, so the edge didn't last.
+3. **ELSS:** the longer the period, the worse it looks: 64% lagged at 3 years and 80% at 10 years.
+4. **Bonds:** active debt funds fared poorly too, with 93% of composite bond funds lagging over 10 years.
+5. **No category** had a majority of active funds beating the index over 10 years.
+
+> The exact percentages change with every edition (published twice a year). Check the latest report before quoting numbers.
 
 ### Persistence: do winners keep winning?
 S&P also publishes **persistence scorecards**. They track whether top-quartile funds stay in the top quartile in later periods. The answer is consistently **rarely**: only a small fraction of top-performing funds remain top performers a few years later, often no better than chance.
@@ -61,7 +79,7 @@ This isn't an opinion or a forecast. It's arithmetic.
 ### Reason 3: Market efficiency (especially in large caps)
 - India's top 100 stocks are followed by dozens of analysts, domestic and foreign institutions, and algorithmic traders.
 - New information is priced in within minutes. Finding a lasting **edge** is very hard.
-- Mid and small caps are less researched, so there's more room for skill. That's why active funds do relatively better there.
+- Mid and small caps are less researched, so there's more room for skill. That shows up over 3 to 5 years, when only about half of mid/small-cap active funds lag. Over 10 years, though, 82% lagged, worse than large caps (SPIVA Mid-Year 2026).
 
 ### Reason 4: Structural constraints (SEBI rules + size)
 - Large-cap funds must hold at least 80% in the top 100. Their universe is small and they can't deviate much.
@@ -131,7 +149,7 @@ Two measures:
 ## 7. When might an active fund make sense?
 
 Active management isn't always pointless:
-- **Mid and small caps:** less efficient segments with somewhat better historical odds for skilled managers. Even here, low-cost index funds (Midcap 150, Smallcap 250) are valid alternatives.
+- **Mid and small caps:** less efficient segments, where active funds have had better odds over 3 to 5 years. Over 10 years, though, most still lagged (82% in SPIVA Mid-Year 2026), so low-cost index funds (Midcap 150, Smallcap 250) are a strong alternative.
 - **Flexi cap:** a manager with true freedom to go anywhere, if you want one active fund.
 - **Debt:** there aren't many passive options for some needs (though target maturity funds and gilt index funds now exist).
 - **Specific strategies** you understand and believe in (e.g. value investing with a disciplined, low-turnover manager).
@@ -169,7 +187,7 @@ Active management isn't always pointless:
 ## 9. Summary
 
 - **Active** funds try to beat the index. **Passive** (index) funds copy it at very low cost.
-- **SPIVA India:** most active large-cap funds underperform over 10 years. Winners rarely persist.
+- **SPIVA India (Mid-Year 2026):** over 10 years, 74% of active large-cap funds, 80% of ELSS and 82% of mid/small-cap funds underperformed, and only 74% of funds survived. Winners rarely persist.
 - **Why:** costs, the arithmetic of active management, efficient large-cap markets, SEBI constraints, and size.
 - Index funds aren't perfect: tracking difference, concentration, no downside protection. But they reliably deliver the market return.
 - Use **index funds as the core**. Use active funds, if at all, as a small satellite, especially in mid caps or flexi caps.
@@ -177,7 +195,7 @@ Active management isn't always pointless:
 ## Self-check questions
 1. What does SPIVA measure, and why does it account for survivorship bias?
 2. Explain Sharpe's "arithmetic of active management" in three sentences.
-3. Why do active large-cap funds struggle more than active small-cap funds?
+3. Mid/small-cap active funds look better than large-cap ones over 5 years but worse over 10 years in SPIVA Mid-Year 2026. What are the numbers, and what should you take from them?
 4. What's the difference between tracking error and tracking difference?
 5. What is a "closet indexer"?
 
@@ -185,7 +203,7 @@ Active management isn't always pointless:
 
 1. The % of active funds underperforming their benchmark. It includes funds that closed or merged, because they were usually poor performers and excluding them would flatter active funds.
 2. All investors together hold the market and earn the market return before costs. Passive investors earn the market return, so active investors as a group must too, before costs. After costs, the average active investor must lag.
-3. Large caps are heavily researched and efficient, the investable universe is constrained, and funds are large. Small caps are less efficient.
+3. Over 5 years, 55% of mid/small-cap funds lagged vs 85% of large-cap funds. Over 10 years, 82% lagged vs 74%. Less efficient segments give managers room for a few good years, but the edge rarely lasts a decade, so an index fund is the safer default in every category.
 4. Tracking difference = the actual return gap versus the index. Tracking error = the variability (standard deviation) of that gap.
 5. An active fund whose portfolio closely resembles the index but charges active fees.
 </details>

@@ -1,5 +1,7 @@
 # Chapter 3.2: Asset Allocation, Diversification and Rebalancing
 
+> **Core**
+
 > **What you'll learn:** what asset allocation is and why it matters more than fund selection, how to decide your allocation (horizon, risk capacity, risk tolerance), sample portfolios, how diversification really works, rebalancing methods (calendar vs threshold, with worked examples), tax-efficient rebalancing, glide paths for goals, and the mistakes to avoid.
 
 ---

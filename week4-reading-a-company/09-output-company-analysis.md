@@ -1,5 +1,7 @@
 # Chapter 4.9: Week 4 Output: One-Page Analysis of a Company You Use
 
+> **Core**
+
 > **Goal:** analyse a listed company **whose product or service you actually use**, on a single page. Your experience as a customer gives you an edge in understanding the business. This pulls together everything from Chapters 4.1–4.8.
 
 Allow 90–120 minutes: 30 minutes on Screener (Chapter 4.8 routine), 30–60 minutes reading a concall transcript and the annual report's MD&A, and 30 minutes writing.

@@ -1,5 +1,7 @@
 # Chapter 2.7: How to Read a Fund Factsheet (and Value Research)
 
+> **Core**, except §5 (risk metrics), which is **Reference: read when you start earning**
+
 > **What you'll learn:** where to find factsheets and fund data, every important field on a factsheet and what it tells you, how to read returns correctly (point-to-point vs rolling, CAGR vs XIRR, TRI benchmarks), portfolio analysis, risk metrics (standard deviation, beta, Sharpe, Sortino, alpha, R-squared, drawdown), debt-specific fields, and a step-by-step evaluation checklist.
 
 ---

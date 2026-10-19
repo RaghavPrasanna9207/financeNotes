@@ -1,5 +1,7 @@
 # Chapter 4.4: The Cash Flow Statement: "Where Did the Cash Actually Go?"
 
+> **Core**
+
 > *Based on Varsity's Fundamental Analysis module (the cash flow chapter).*
 >
 > **What you'll learn:** why profit and cash differ, the three sections of the cash flow statement (operating, investing, financing), how operating cash flow is derived from profit (the indirect method), free cash flow, the "CFO vs PAT" test, the six typical cash flow patterns and what they say about a company, and how the three statements connect.

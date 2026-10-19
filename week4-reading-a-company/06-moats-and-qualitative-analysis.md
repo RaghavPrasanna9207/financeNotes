@@ -1,5 +1,7 @@
 # Chapter 4.6: Moats and Qualitative Analysis
 
+> **Core**
+
 > **What you'll learn:** what an economic moat is and why it matters, the main types of moats with Indian examples, how moats show up in the numbers, how moats erode, Porter's Five Forces for industry analysis, and how to assess management quality and capital allocation.
 
 ---

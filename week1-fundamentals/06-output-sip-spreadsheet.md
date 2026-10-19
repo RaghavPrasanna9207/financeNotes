@@ -1,5 +1,7 @@
 # Chapter 1.6: Week 1 Output: SIP Compounding Spreadsheet
 
+> **Core**
+
 > **Goal:** build a spreadsheet that shows how a monthly SIP grows over 10 and 20 years, next to what that money is *actually* worth after inflation. Building it yourself makes Chapters 1.1 and 1.2 concrete.
 
 Use Excel or Google Sheets. Allow 40–60 minutes.

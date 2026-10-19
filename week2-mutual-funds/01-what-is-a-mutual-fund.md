@@ -1,5 +1,7 @@
 # Chapter 2.1: What a Mutual Fund Is and How It Works
 
+> **Core**
+
 > *Based on the mutual fund chapters of Zerodha Varsity's Personal Finance module.*
 >
 > **What you'll learn:** what a mutual fund is and why it exists, the legal structure that protects your money, how NAV is calculated, how units are bought and redeemed (cut-off times, settlement), open-ended vs closed-ended funds, ETFs and index funds, growth vs IDCW options, NFOs, and how to actually invest (platforms, KYC, CAS).
@@ -32,7 +34,7 @@ The Indian MF industry manages tens of lakh crores of rupees (well over ₹70 la
 
 ## 2. The legal structure: why your money is safe from the fund house
 
-Indian mutual funds are set up as **trusts** under SEBI (Mutual Funds) Regulations, 1996. The structure separates the people who **manage** the money from the people who **hold** and **oversee** it.
+Indian mutual funds are set up as **trusts** under SEBI's Mutual Fund Regulations (the 1996 regulations were replaced by new regulations notified in January 2026, effective 1 April 2026; the trust structure stays the same). The structure separates the people who **manage** the money from the people who **hold** and **oversee** it.
 
 ```
                 ┌─────────────────────────┐

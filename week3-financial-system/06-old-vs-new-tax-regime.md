@@ -1,8 +1,10 @@
 # Chapter 3.6: Income Tax Basics: Old vs New Regime
 
+> **Reference: read when you file taxes**
+
 > **What you'll learn:** how Indian income tax is structured (heads of income, gross vs taxable income, slabs, rebate, cess, surcharge), the slab rates in both regimes, every major deduction in the old regime, what's still allowed in the new regime, worked comparisons at different salaries, how to choose, and practical filing basics.
 
-> Rates reflect **Budget 2025** (applicable from FY 2025-26), carried into the **Income-tax Act, 2025** (from FY 2026-27). Section numbers below are the **old (1961 Act)** names that people still use. The new Act renumbers them. Verify current rates on incometax.gov.in.
+> Figures as of October 2026. Rates reflect **Budget 2025** (applicable from FY 2025-26), carried into the **Income-tax Act, 2025** (from FY 2026-27). Section numbers below are the **old (1961 Act)** names that people still use. The new Act renumbers them. Verify current rates on incometax.gov.in.
 
 ---
 
