@@ -22,7 +22,16 @@ For a student on an allowance starting a small index fund SIP. Every chapter has
 | 3.6 Old vs new tax regime | You file taxes |
 | 3.7 Insurance | You buy insurance |
 
-**Size:** the core path is about **55,000 words** (roughly 4.5 hours of reading) out of about **71,000 words** for the whole set (roughly 6 hours).
+**Size:** the core path is about **55,000 words** out of about **71,000 words** for the whole set.
+
+| | Core path | Whole set |
+|---|---|---|
+| Reading once (about 200 words a minute) | ~4.5 hours | ~6 hours |
+| Studying properly (100–150 words a minute, with examples and self-checks) | ~6–9 hours | ~8–12 hours |
+| Plus the four output exercises | ~4–5.5 hours | ~4–5.5 hours |
+| **Realistic total** | **~10–15 hours** | **~13–18 hours** |
+
+The core path fits the plan of 40 minutes a day, 5 days a week, for 4 weeks (about 13 hours).
 
 ---
 
